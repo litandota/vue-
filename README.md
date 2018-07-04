@@ -16,3 +16,7 @@ https://www.cnblogs.com/heioray/p/7193841.html
 v-if v-show 区别
 都能控制标签隐藏显示。
 v-if 删除增加dom   v-show 只是在对应标签上增加display-none  dom还在
+
+
+18年面试题
+https://www.cnblogs.com/sichaoyun/p/8406194.html
