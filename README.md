@@ -20,3 +20,7 @@ v-if 删除增加dom   v-show 只是在对应标签上增加display-none  dom还
 
 18年面试题
 https://www.cnblogs.com/sichaoyun/p/8406194.html
+
+
+vuex 用法
+https://vuex.vuejs.org/zh/
