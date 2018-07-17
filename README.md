@@ -27,3 +27,7 @@ https://vuex.vuejs.org/zh/
 
 webpack入门
 https://www.jianshu.com/p/42e11515c10f
+
+
+vue keep-alive 缓存机制使用
+https://segmentfault.com/a/1190000008123035
