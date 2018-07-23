@@ -31,3 +31,10 @@ https://www.jianshu.com/p/42e11515c10f
 
 vue keep-alive 缓存机制使用
 https://segmentfault.com/a/1190000008123035
+
+
+
+>  vueAdmin-template 学习笔记
+
+项目地址  https://github.com/PanJiaChen/vueAdmin-template.git
+权限相关文档 https://juejin.im/post/591aa14f570c35006961acac
